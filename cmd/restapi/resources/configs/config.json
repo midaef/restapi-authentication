@@ -1,0 +1,16 @@
+{
+	"server":
+	{
+		"server_port" : ":65000",
+		"log_level" : "debug",
+		"server_host" : "localhost"
+	}, 
+	"database":
+	{
+		"host" : "localhost",
+		"dbname" : "booktracker",
+		"dbport" : 5432,
+		"user" : "postgres",
+		"password" : "12345678"
+	}
+}
